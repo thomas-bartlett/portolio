@@ -3,8 +3,8 @@ import Image from "next/image";
 export default function Home() {
   return (
     <main>
-      <h1>Thomas's Portfolio</h1>
-      <p>A portfolio of Thomas's work</p>
+      <h1>Thomas&apos;s Portfolio</h1>
+      <p>A portfolio of Thomas&apos;s work</p>
       <Image
      src="/portfolio/vercel.svg"
      alt="Vercel Logo"
